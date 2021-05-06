@@ -107,7 +107,7 @@ namespace cw.AboutBox
             this.label3.Size = new System.Drawing.Size(336, 32);
             this.label3.TabIndex = 3;
             this.label3.Text = "Having trouble guestimating your time recording?  Keep losing track when you\'ve b" +
-                "een switching between tasks?";
+    "een switching between tasks?";
             // 
             // label4
             // 
@@ -139,7 +139,7 @@ namespace cw.AboutBox
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(186, 30);
             this.label1.TabIndex = 9;
-            this.label1.Text = "(c)GISMonkey.co.uk, 2004 - 2011";
+            this.label1.Text = "(c)GISMonkey.co.uk, 2004 - 2021";
             // 
             // label7
             // 
@@ -147,7 +147,7 @@ namespace cw.AboutBox
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(112, 16);
             this.label7.TabIndex = 10;
-            this.label7.Text = "Compiled for .Net 2.0";
+            this.label7.Text = "Compiled for .Net 4.5";
             // 
             // frmAbout
             // 
